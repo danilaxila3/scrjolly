@@ -1,6 +1,8 @@
 # scrjolly
 simple jolly terminal screensaver
 
+![screenshot_0](images/screenshot_0.png)
+
 # installing
 
 ```bash
